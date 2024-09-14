@@ -800,6 +800,13 @@
 <table>
 <tr><th>Name</th><th>Remote</th><th>Hybrid</th><th>Hiring</th><th>Contact</th></tr>
 <tr>
+<td><a href="https://aminoeditor.com/" target="_blank">Amino</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td><a href="https://curotec.com/" target="_blank">Curotec</a></td>
 <td></td>
 <td></td>
